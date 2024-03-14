@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//mobile-first-login/static/css/main.dba42a76.css",
+    "main.js": "//mobile-first-login/static/js/main.e61a5560.js",
+    "static/js/453.52b30dbf.chunk.js": "//mobile-first-login/static/js/453.52b30dbf.chunk.js",
+    "index.html": "//mobile-first-login/index.html",
+    "main.dba42a76.css.map": "//mobile-first-login/static/css/main.dba42a76.css.map",
+    "main.e61a5560.js.map": "//mobile-first-login/static/js/main.e61a5560.js.map",
+    "453.52b30dbf.chunk.js.map": "//mobile-first-login/static/js/453.52b30dbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba42a76.css",
+    "static/js/main.e61a5560.js"
+  ]
+}
